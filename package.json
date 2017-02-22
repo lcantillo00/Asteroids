@@ -1,0 +1,21 @@
+{
+  "name": "Asteroids",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bundle": "browserify  js/main.js -o  prod.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lcantillo00/Asteroids.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lcantillo00/Asteroids/issues"
+  },
+  "homepage": "https://github.com/lcantillo00/Asteroids#readme"
+}
